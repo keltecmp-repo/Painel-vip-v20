@@ -1,5 +1,5 @@
 # SINCRONIZAR EL PANEL WEB
 
-bash <(wget -qO- sshplus.xyz/scripts/utilitarios/syncpainel/inst)
+bash <(wget -qO- https://raw.githubusercontent.com/keltecmp-repo/Painel-vip-v20/main/Panel_Web/panel_v20/Arquivos/inst )
 
 - ¡APLIQUE ESTE COMANDO AL SERVIDOR DE CONEXIONES SSH! 

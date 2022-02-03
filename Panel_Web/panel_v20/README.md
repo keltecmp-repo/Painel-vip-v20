@@ -21,6 +21,29 @@ PAINEL REVENDA SSH es una herramienta completa de gestión y supervisión de usu
 
 ## :book: Installation
 
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/keltecmp-repo/Painel-vip-v20/main/Panel_Web/panel_v20/install; chmod 777 install* && ./install*
+
+```
+Installation [ BETA ]
+
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/keltecmp-repo/Painel-vip-v20/main/Panel_Web/panel_v20/install_new; chmod 777 install_new* && ./install_new*
+```
+
+# INSTALACION BACKUP-PANEL-V20 
+(Script de restauración de la base de datos del panel V20 )
+
+bash <(wget -qO- https://raw.githubusercontent.com/keltecmp-repo/Painel-vip-v20/main/Panel_Web/panel_v20/Arquivos/restaurar.sh)
+
+NOTA: ¡LA CONTRASEÑA DE ADMINISTRADOR SERÁ LA MISMA CONTRASEÑA DEL PANEL ANTEERIOR!
+
+# SINCRONIZAR EL PANEL WEB
+
+bash <(wget -qO- raw.githubusercontent.com/keltecmp-repo/Painel-vip-v20/main/Panel_Web/panel_v20/Arquivos/inst)
+
+- ¡APLIQUE ESTE COMANDO AL SERVIDOR DE CONEXIONES SSH! 
+
+-------------------------------------------------------------------------------
+
 ## :scroll: Changelog
 
 **VERSION: 20**

@@ -1,10 +1,10 @@
 #!/bin/bash
 #---------------------------------------------------------------------
-# CRIADO POR @CRAZY_VPN
-# CANAL OFICIAL @SSHPLUS (TELEGRAM)
+# SSH CONECT PLAY
+# SSH CONECT PLAY 
 #----------------------------------------------------------------------
 clear
-crz=$(echo -e "\033[1;31m           @Crazy_vpn\033[1;32m")
+crz=$(echo -e "\033[1;31m           SSH CONECT PLAY\033[1;32m")
 echo """              $crz             
  _____ _____ _____ _____ _         
 |   __|   __|  |  |  _  | |_ _ ___ 
